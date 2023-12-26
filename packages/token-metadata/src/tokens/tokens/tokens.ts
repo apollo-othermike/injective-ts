@@ -2,7 +2,7 @@ import { TokenMeta, Cw20TokenSource, TokenType } from '../../types'
 
 export default {
   BTC: {
-    name: 'Bitcoin',
+    name: 'Bitcoin', // test changes. ignore
     symbol: 'BTC',
     decimals: 8,
     logo: 'bitcoin.svg',
